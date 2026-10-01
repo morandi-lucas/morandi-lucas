@@ -2,7 +2,7 @@
 
 **Dados, Business Intelligence e automação aplicados ao mercado financeiro.**
 
-Atuo no mercado financeiro desde 2019. Minha trajetória na mesa de Renda Variável passou pelo operacional e pela atuação comercial até a responsabilidade pela estruturação de operações de hedge em commodities e moedas. Na GWM, criei e aprimorei toda a estrutura operacional da mesa.
+Atuo na GWM desde 2021. Minha trajetória na mesa de Renda Variável passou pelo operacional e pela atuação comercial até a responsabilidade pela estruturação de operações de hedge em commodities e moedas. Na GWM, criei e aprimorei toda a estrutura operacional da mesa.
 
 Por iniciativa própria, comecei a desenvolver ferramentas para resolver problemas operacionais, reduzir gargalos e identificar oportunidades nas carteiras dos clientes. Esse trabalho evoluiu para projetos de dados, BI, automação e plataformas digitais. Meu portfólio conecta conhecimento do negócio, integração de informações e desenvolvimento de ferramentas de apoio à decisão.
 
