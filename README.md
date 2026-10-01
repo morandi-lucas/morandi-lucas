@@ -1,63 +1,45 @@
-# Lucas Daniel de Oliveira Morandi
+# Lucas Morandi
 
-Sou profissional de mercado financeiro com foco em Renda Variável, automação operacional, BI e dados aplicados a investimentos.
+**Dados, Business Intelligence e automação aplicados ao mercado financeiro.**
 
-Atuo na criação de soluções que conectam processos financeiros, análise de dados, automação em Excel/VBA, Python, Power BI, Cloud, SQL e integrações com APIs.
+Atuo no mercado financeiro desde 2019. Minha trajetória na mesa de Renda Variável passou pelo operacional e pela atuação comercial até a responsabilidade pela estruturação de operações de hedge em commodities e moedas. Na GWM, criei e aprimorei toda a estrutura operacional da mesa.
 
-Meu foco é transformar rotinas manuais, controles operacionais e fluxos fragmentados em processos mais rápidos, auditáveis e escaláveis.
+Por iniciativa própria, comecei a desenvolver ferramentas para resolver problemas operacionais, reduzir gargalos e identificar oportunidades nas carteiras dos clientes. Esse trabalho evoluiu para projetos de dados, BI, automação e plataformas digitais. Meu portfólio conecta conhecimento do negócio, integração de informações e desenvolvimento de ferramentas de apoio à decisão.
 
----
+## Vértice
 
-## Principais frentes
+Meu principal projeto é o **Vértice**, iniciado em **março de 2026**: uma plataforma voltada à assessoria de investimentos que reúne indicadores executivos, dados financeiros, CRM e fluxos de trabalho.
 
-- Automação de rotinas operacionais para mesa de Renda Variável
-- Pipelines de dados para relatórios financeiros e Power BI
-- Integração com APIs, webhooks, Cloud Run, storage e SQL
-- Ferramentas em Excel/VBA para controle, alertas e envio automático de e-mails
-- OCR e leitura de documentos financeiros escaneados
-- Análise de risco, volatilidade e operações estruturadas
-- Dashboards, bases gerenciais e modelos de acompanhamento comercial
+A plataforma é utilizada atualmente por aproximadamente 50 pessoas no escritório, incluindo assessores e gestores.
 
----
+O projeto envolve ingestão de dados, definição de métricas, integração entre serviços e construção da experiência de uso. Entre os temas que orientam sua evolução estão consistência das informações, rastreabilidade, controle de acesso e ligação entre indicadores e ações comerciais.
 
-## Projetos em destaque
+A arquitetura reúne Python/FastAPI, PostgreSQL, React/Next.js, TypeScript e serviços do Google Cloud. O código do Vértice está em repositório privado; os projetos públicos abaixo apresentam exemplos complementares de dados e automação financeira.
 
-### [Cloud Report Ingestion API](https://github.com/Ranmodi/cloud-report-ingestion-api)
+## Projetos selecionados
 
-Pipeline em Cloud Run para recebimento de relatórios via API/webhook, armazenamento, controle de latest report, normalização e preparação para SQL/Power BI.
+| Projeto | Tema |
+| --- | --- |
+| [Investment Desk BI Pipeline](https://github.com/morandi-lucas/investment-desk-bi-pipeline) | Normalização de bases, verificações de qualidade e preparação de tabelas e views SQL para análise e BI. |
+| [Cloud Report Ingestion API](https://github.com/morandi-lucas/cloud-report-ingestion-api) | Ingestão de relatórios, APIs, webhooks, armazenamento e preparação de dados para consumo analítico. |
+| [Options Risk and Volatility Engine](https://github.com/morandi-lucas/options-risk-volatility-engine) | Ferramentas de apoio ao acompanhamento de opções, barreiras, fixing e operações estruturadas. |
+| [Financial Automation Suite](https://github.com/morandi-lucas/financial-automation-suite) | Automação em Python para planilhas, relatórios e rotinas operacionais do mercado financeiro. |
+| [PDF OCR Financial Documents](https://github.com/morandi-lucas/pdf-ocr-financial-documents) | Extração de informações de documentos e preparação de dados para conciliação. |
+| [Excel VBA Productivity Tools](https://github.com/morandi-lucas/excel-vba-productivity-tools) | Ferramentas de automação de planilhas, eventos, alertas e rotinas com Outlook. |
+| [Investment Office Management Portal](https://github.com/morandi-lucas/investment-office-management-portal) | Portal de gestão em Django para planejamento e acompanhamento de atividades. |
 
-### [Financial Automation Suite](https://github.com/Ranmodi/financial-automation-suite)
+## Problemas que me interessam
 
-Conjunto de automações em Python para rotinas financeiras, leitura de planilhas, geração de relatórios, alertas operacionais e comunicação com assessores.
+- Transformar dados financeiros fragmentados em informações consistentes para análise.
+- Traduzir necessidades do negócio em indicadores e fluxos de trabalho.
+- Automatizar rotinas repetitivas de operação e acompanhamento.
+- Construir integrações entre relatórios, APIs, bancos e aplicações.
+- Criar soluções digitais úteis para assessores, operadores e gestores.
 
-### [Options Risk & Volatility Engine](https://github.com/Ranmodi/options-risk-volatility-engine)
+## Estudos de caso
 
-Motor de análise para operações estruturadas e opções, com foco em volatilidade, probabilidade de barreira, fixing, antecipação e score de risco.
+[Portfolio Case Studies](https://github.com/morandi-lucas/portfolio-case-studies) reúne a apresentação do contexto e das soluções dos meus projetos públicos.
 
-### [PDF OCR Financial Documents](https://github.com/Ranmodi/pdf-ocr-financial-documents)
+## Contato profissional
 
-Automação para leitura de PDFs escaneados, OCR, extração estruturada de dados, conciliação com Excel e geração de logs de auditoria.
-
-### [Excel VBA Productivity Tools](https://github.com/Ranmodi/excel-vba-productivity-tools)
-
-Coleção de módulos VBA para automação de workbooks, eventos, agendamentos, alertas, tabelas dinâmicas, envio de e-mails e rotinas operacionais.
-
-### [Investment Desk BI Pipeline](https://github.com/Ranmodi/investment-desk-bi-pipeline)
-
-Pipeline de BI para normalização de bases, modelagem SQL, views analíticas e preparação de dados para Power BI e dashboards gerenciais.
-
-### [Portfolio Case Studies](https://github.com/Ranmodi/portfolio-case-studies)
-
-Camada narrativa do portfólio, explicando o problema, arquitetura, solução e impacto operacional de cada projeto.
-
----
-
-## Stack
-
-Python · VBA · Excel · Pandas · OpenPyXL · PyWin32 · SQL · Power BI · Google Cloud Run · APIs · Webhooks · Docker · OCR · Tesseract · PyMuPDF · Django · Outlook Automation · Selenium
-
----
-
-## Posicionamento
-
-Tecnologia aplicada ao mercado financeiro, com foco em eficiência operacional, dados, automação, controle de processos e apoio à tomada de decisão.
+[LinkedIn](https://www.linkedin.com/in/lucas-morandi-86553299/)
